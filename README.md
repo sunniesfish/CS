@@ -2,13 +2,13 @@
 
 ## 목차
 
-- [JavaScript](#javascript)
-  - [Web](#javascript-web)
-  - [Core](#javascript-core)
-- [CSS](#css)
-- [Database](#database)
-- [System](#system)
-- [Design Pattern](#design-pattern)
-- [ETC](#etc)
+- [JavaScript](./JavaScript)
+  - [Web](./JavaScript/Web)
+  - [Core](./JavaScript/Core)
+- [CSS](./CSS)
+- [Database](./Database)
+- [System](./System)
+- [Design Pattern](./Design-Pattern)
+- [ETC](./ETC)
 
 ---
